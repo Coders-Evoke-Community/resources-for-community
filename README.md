@@ -2,11 +2,16 @@
 
 ![Project-poster](/docs/Assets/Images/readme/poster-main.gif)
 
-### If you would like a new area of resources, which are not listed here, please reade our CONTRIBUTING.md file, or create an issue about it.
+### If you would like a new area of resources, which are not listed here, follow here:
 
-## Contents:
-
-
+- [x] Star this repositary, so you don't lose it.
+- [x] Fork this repository.
+- [x] Clone the **forked** version of the repo locally.
+- [x] Add your resources and improvements.
+- [x] Git add, git commit and git push your changes.
+- [x] Now open up the pull request.
+- [x] Briefly explain what you have done.
+- [x] Wait for us to review!
 
 ## General Resources:
 
