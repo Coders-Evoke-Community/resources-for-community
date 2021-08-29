@@ -13,6 +13,13 @@
 - [x] Briefly explain what you have done.
 - [x] Wait for us to review!
 
+---
+
+- If you are a beginner and want to start contributions in open source projects ....then here i have some thing for you check this out 
+<a href="https://github.com/Ayan-thecodeking/Here-Contributions-Begins">A Documentation on git commands and also VS code commands </a>
+
+---
+
 ## General Resources:
 
 | Name Of Resource | Description |
