@@ -2,6 +2,12 @@
 
 ![Project-poster](/docs/Assets/Images/readme/poster-main.gif)
 
+<div align="center">
+  
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
+  
+</div>
+
 ## Want to Contribute? 
 Read our [Contributing.md](CONTRIBUTING.md) file!
 
