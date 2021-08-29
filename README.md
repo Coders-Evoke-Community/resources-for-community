@@ -3,7 +3,7 @@
 ![Project-poster](/docs/Assets/Images/readme/poster-main.gif)
 
 ## Want to Contribute? 
-Read our [Contributing.md](./CONTRIBUTING.md) file!
+Read our [Contributing.md](CONTRIBUTING.md) file!
 
 ---
 
