@@ -37,5 +37,13 @@ Read our [Contributing.md](./CONTRIBUTING.md) file!
 
 ---
 
+## What is currently in progress:
+
+- [ ] CSS Resources.
+- [ ] Javascript Resources.
+- [ ] Backend developing Resources.
+- [ ] React JS Resources.
+- [ ] Git Resources.
+- [ ] Best Github Repos. 
 
 > ## Don't forget to ⭐STAR⭐ this repository!!!
