@@ -1,22 +1,20 @@
-<h1  align="center">RESOURCES FOR OUR COMMUNITY</h1>
+<h1  align="center">📚 Resources For Our Community! 📚</h1>
 
 ![Project-poster](/docs/Assets/Images/readme/poster-main.gif)
 
-### If you would like a new area of resources, which are not listed here, follow here:
+<div align="center">
+  
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
+  
+</div>
 
-- [x] Star this repositary, so you don't lose it.
-- [x] Fork this repository.
-- [x] Clone the **forked** version of the repo locally.
-- [x] Add your resources and improvements.
-- [x] Git add, git commit and git push your changes.
-- [x] Now open up the pull request.
-- [x] Briefly explain what you have done.
-- [x] Wait for us to review!
+## Want to Contribute? 
+Read our [Contributing.md](CONTRIBUTING.md) file!
 
 ---
 
-- If you are a beginner and want to start contributions in open source projects ....then here i have some thing for you check this out 
-<a href="https://github.com/Ayan-thecodeking/Here-Contributions-Begins">A Documentation on git commands and also VS code commands </a>
+- If you have started contributing to open source projects, and are a beginner... then here is something for you to check out:
+[Ayan-thecodeking's Here-Contributions-Begins](https://github.com/Ayan-thecodeking/Here-Contributions-Begins) : A documentation on git commands and also VS code commands.
 
 ---
 
@@ -33,4 +31,26 @@
 
 ---
 
-> Do star this REPO :)
+## HTML Resources:
+
+| Name Of Resource | Description |
+| ---------------- | ----------- |
+| `[Example Resource Name](Link)` | `Description what it is about` |
+| [W3Schools HTML Tutorial](https://www.w3schools.com/html/default.asp) | Learn HTML for free, with examples!|
+| [HTML Dog](https://www.htmldog.com/) | Tutorials, references and examples!!!|
+| [FreeCodeCamp HTML Tutorials](https://www.freecodecamp.org/news/tag/html/) | Learn HTML with useable projects to make!|
+| [Hackr.io](https://hackr.io/tutorials/learn-html-5) | Free courses for you to complete! |
+| [HTML.com](https://html.com/) | A whole website dedicated to HTML! |
+
+---
+
+## What is currently in progress:
+
+- [ ] CSS Resources.
+- [ ] Javascript Resources.
+- [ ] Backend developing Resources.
+- [ ] React JS Resources.
+- [ ] Git Resources.
+- [ ] Best Github Repos. 
+
+> ## Don't forget to ⭐STAR⭐ this repository!!!
