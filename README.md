@@ -29,6 +29,7 @@
 | [MDN Web Docs](https://developer.mozilla.org/en-US/) | These are resources by developers, by developers. |
 | [FreeCodeCamp](https://www.freecodecamp.org/news/) | 3,000 hours worth of computer programming, all for free. |
 | [Stack Overflow](https://stackoverflow.com/) | Get answers and ask questions for any of your coding dilemmas. |
+| [Full stack open](https://fullstackopen.com/en/) | Full stack programming course for someone who has some programming knowledge but is stuck to tutorials and tiny projects |
 
 ---
 
